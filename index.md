@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## This was a standard GitHub page design
 
-You can use the [editor on GitHub](https://github.com/moorerew/moorerew.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am slowly trying to edit the text to make it my own. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a slow process as I learn how to use GitHub and therefore how to make and commit changes and how to use branches to make changes. 
 
 ### Markdown
 
